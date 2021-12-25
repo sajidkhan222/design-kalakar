@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+:root {
+    --pink:#dd1a5c;
+    --yellow:#fee13d;
+    --gren:#008086;
+    --purple:#ff9ad7;
+    --darkPurple:#a33977;
+    --primaryFont:'Poppins', sans-serif;
+}

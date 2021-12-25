@@ -1,0 +1,20 @@
+@import url('../../Styles/constants.css');
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.list_item a{
+    color: var(--darkPurple);
+    font-size: 1rem;
+    font-family: var(--primaryFont);
+    cursor: pointer;
+    position: relative;
+    text-decoration: none;
+    transition: .1s;
+    border-bottom: 0px solid #fff;
+}
+.list_item a:hover {
+    border-width: 2px;
+}
